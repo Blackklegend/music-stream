@@ -115,6 +115,29 @@ YouTube
 
 <br>
 
+- ## Apple Music / iTunes
+  
+  - **Variedade: 10**
+    - Por incrível que pareça, a variedade do Apple music é comparável com a do Spotify, possui inúmeros artistas de todo o mundo, indies, OSTs, etc. Tudo que procurei consegui achar, porém às vezes você pode ter que procurar pelo google ou algo do tipo.
+
+  - **Qualidade de áudio: 10**
+    - A qualidade do Apple Music é impressionante. No celular não perde em nada para o Tidal e Spotify, no computador idem, dependendo do seu setup é até melhor. Além de não cobrar a mais pela qualidade mais alta. E caralho, que qualidade boa, pqp.
+  
+  - **UI/UX aka Interface: 9** 
+    - Well, Apple ainda é apple e interface eles sabem fazer. Ela simples, concisa e agradável. Porém não tão intuitiva quanto a do Spotify, foca demais na simplicidade e pouco na usabilidade, muitos menus e pop-ups diferentes podem atrapalhar a experiência. No geral é muito boa, no aplicativo pra windows, o iTunes, ela é decente, mas falta modo noturno e minimize to tray. No Android o aplicativo é muito bom, possui modo noturno e é relativamente simples de usar. Criar playlists é fácil porém editá-las é um pouco mais confuso, porém nada difícil. Achar recomendações dá um pouco de trabalho, mas eu acredito que isso seja relacionado com meu pouco tempo de uso da plataforma. O site é muito bom, e o áudio dele não parece perder para o aplicativo, mas não espere resume anywhere, a apple não oferece nenhum tipo de sincronização entre dispositivos o que é desapontante. O autoplay também vem desligado por padrão e é ativo de uma maneira um pouco incomum, por meio de um símbolo do infinito. Não testei no carro, porém parece ser uma boa experiência mas sem integração com Waze.
+  
+  - **Recomendações: 9**
+    - Assim que você descobre como ativar o autoplay, ele funciona que é uma maravilha, principalmente após você ter curtido várias músicas, eu diria que são recomendações quase tão boas quanto as do YouTube, realmente espetacular. Não tenho muito acrescentar, mas são boas.
+
+  - **Preço: 10**
+    - Com o menor preço da lista toda, por 16 reais e 90 centavos você leva áudio espacial Dolby Atmos, qualidade de áudio lossless, uma biblioteca enorme e ótimas recomendações. Realmente um custo benefício difícil de bater.
+
+<br>
+
+- ### **Visão Geral:** Com média de 9,6 o Apple Music parece o vencedor desse comparativo. Caralho eu não achei que fosse ter uma média tão alta. Mas o serviço realmente impressiona, principalmente pelo preço. A interface é boa, as recomendações são boas, o áudio é excelente e a biblioteca é enorme. A Apple parece ter pego tudo de bom dos outros concorrentes e colocado junto, uma pena que o aplicativo pra windows deixe a desejar, e que não tenha resume anywhere, mas são coisas que você poderia viver sem. Não esperava muito quando fui testar, mas fui surpreendido.
+
+<br>
+
 # Considerações finais
 
 Primeiro de tudo eu gostaria de lembrar que isso é do *meu* ponto de vista e casos de uso, sua experiência pode não ter nada a ver com o que mencionei aqui, só estou compartilhando o que achei sobre os serviços que testei. Em nota gostaria de lembrar que todos os preços são no plano mensal e individual. E por fim vou deixar aqui uma menção deshonrosa pro Amazon Music. Testei ele na versão unlimited e ele foi tão desapontante que eu nem quero gastar muito tempo nisso. Resumindo, péssima interface (pior que do YT Music), péssima variedade, áudio medíocre, e péssimas recomendações. A única coisa que salva ele é que você pode usar junto do amazon prime, mas tem a versão unlimited que custa 16,90 por mês, simplesmente um roubo, não entendo quem compraria uma coisas dessas.  
